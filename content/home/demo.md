@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the MEGCHINA!
-We are devoting to promoting MEG technology based on OPM rather than expensive SQUID in china.
-Although there is a long way.
+## Welcome to the MEGCHINA!
+### We are devoting to promoting MEG technology based on OPM rather than expensive SQUID in china.
+#### Although there is a long way.
