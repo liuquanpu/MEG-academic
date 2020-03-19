@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
-subtitle = ""
+title = "MEG-CHINA"
+subtitle = "a team dev OPM for MEG"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
